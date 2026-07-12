@@ -10,7 +10,7 @@
 
 - 已经使用 AI，但不知道自己能对应哪些岗位的人；
 - 做过 Skill、Agent、工作流、API 接入、AI 编程或 Vibe Coding 项目的人；
-- AI 零基础，希望根据真实招聘要求安排学习的人；
+- 已有基础 AI 使用经验，希望把实践转换为可求职证据的人；
 - 需要系统学习路线、作品集任务和持续进度管理的人。
 
 ## 地区定位
@@ -25,7 +25,7 @@
 
 项目包含四个 Skill：
 
-1. `career-ai-transition-init` — 通过强制追问，问清背景、AI 实践、约束和真实能力；
+1. `career-ai-transition-init` — 通过两轮单字段选项题，问清背景、AI 实践、约束和真实能力；
 2. `career-ai-transition-scan` — 使用近期真实 JD 验证一个已选职业方向；
 3. `career-ai-transition-plan` — 根据已验证差距生成学习、作品集和求职计划；
 4. `career-ai-transition-status` — 记录进度，每天最多安排三件事，并根据完成情况调整计划。
@@ -82,7 +82,7 @@ cd career-ai-transition-skill
 
 ## 反馈与贡献
 
-这个项目仍在持续测试和完善中。如果你在使用过程中遇到问题，或对追问流程、岗位分析、学习计划、BOSS 数据采集有改进建议，欢迎[ 提交 GitHub Issue](https://github.com/liaojianquan9-source/career-ai-transition-skill/issues)。
+这个项目仍在持续测试和完善中。如果你在使用过程中遇到问题，或对追问流程、岗位分析、学习计划、BOSS 数据采集有改进建议，欢迎[提交 GitHub Issue](https://github.com/liaojianquan9-source/career-ai-transition-skill/issues)。
 
 提交反馈时，建议说明：
 

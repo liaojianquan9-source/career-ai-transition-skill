@@ -10,7 +10,7 @@ Instead of returning a generic list of high-paying jobs, the Skill clarifies the
 
 - People who already use AI but do not know which roles their experience supports;
 - People who have built Skills, agents, workflows, API integrations, AI-assisted software, or vibe-coding projects;
-- AI beginners who want a learning route derived from real hiring requirements;
+- People with basic AI experience who want to turn that practice into employable evidence;
 - People who need structured learning milestones, portfolio tasks, and ongoing progress tracking.
 
 ## Regional scope
@@ -25,7 +25,7 @@ Market conclusions must be based on current evidence. The Skill does not guarant
 
 The project contains four Skills:
 
-1. `career-ai-transition-init` — clarify the user's background, AI practice, constraints, and demonstrated capabilities;
+1. `career-ai-transition-init` — clarify the user's background, AI practice, constraints, and demonstrated capabilities through two rounds of single-field multiple-choice questions;
 2. `career-ai-transition-scan` — validate one selected career direction against recent job descriptions;
 3. `career-ai-transition-plan` — build a bounded learning, portfolio, and job-search plan from the verified gaps;
 4. `career-ai-transition-status` — track progress, provide up to three daily tasks, and adjust the plan using completed work.
