@@ -25,7 +25,7 @@
 
 项目包含四个 Skill：
 
-1. `career-ai-transition-init` — 通过两轮单字段选项题，问清背景、AI 实践、约束和真实能力；
+1. `career-ai-transition-init` — 第一轮一次问完全部单字段选项题，只对缺失或模糊项进行第二、第三轮追问；
 2. `career-ai-transition-scan` — 使用近期真实 JD 验证一个已选职业方向；
 3. `career-ai-transition-plan` — 根据已验证差距生成学习、作品集和求职计划；
 4. `career-ai-transition-status` — 记录进度，每天最多安排三件事，并根据完成情况调整计划。

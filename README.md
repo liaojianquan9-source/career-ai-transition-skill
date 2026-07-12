@@ -25,7 +25,7 @@ Market conclusions must be based on current evidence. The Skill does not guarant
 
 The project contains four Skills:
 
-1. `career-ai-transition-init` — clarify the user's background, AI practice, constraints, and demonstrated capabilities through two rounds of single-field multiple-choice questions;
+1. `career-ai-transition-init` — ask all single-field multiple-choice questions in the first round, then use a second or third round only for missing, vague, or conflicting answers;
 2. `career-ai-transition-scan` — validate one selected career direction against recent job descriptions;
 3. `career-ai-transition-plan` — build a bounded learning, portfolio, and job-search plan from the verified gaps;
 4. `career-ai-transition-status` — track progress, provide up to three daily tasks, and adjust the plan using completed work.
