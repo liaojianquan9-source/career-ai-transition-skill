@@ -1,0 +1,8 @@
+{
+  "name": "skill-boss-adapter",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "BOSS直聘半自动读取 adapter（B 档 human-in-the-loop, read-only），给 career-ai-transition 提供招聘需求侧信号（在招什么/给多少/要哪些 AI 技能）。零依赖：用原始 CDP 协议 + Node 22+ 自带 WebSocket。",
+  "dependencies": {}
+}

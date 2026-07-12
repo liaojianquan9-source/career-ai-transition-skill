@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "created_at": "<填写 init 当天日期 YYYY-MM-DD>",
+  "created_at_full": "<init 当天具体时间, 跟系统时区, 例: 2026-06-26 22:06 CST +0800>",
+  "timezone_id": "<系统 IANA 时区 ID, 如 Asia/Shanghai>",
+  "timezone_label": "<对应本地时区名, 如 中国标准时间>",
+  "profile": {
+    "market_context": {
+      "country_or_region": "",
+      "current_city": "",
+      "target_cities": [],
+      "accepts_relocation": null,
+      "accepts_remote": null,
+      "china_market_mode": true,
+      "data_source_note": ""
+    },
+    "start_tier": null,
+    "tier_reason": "<可选的起点摘要，不作为岗位筛选的硬性依据>",
+    "current_skills": [],
+    "transferable": [],
+    "ai_tools": [],
+    "ai_zero_baseline": false,
+    "ai_practice_cases": [
+      {
+        "problem": "",
+        "user_actions": [],
+        "ai_actions": [],
+        "tools": [],
+        "result": "",
+        "independence": "tutorial|guided|independent|can_debug|can_deliver|unknown",
+        "evidence_status": "unknown|vague|claimed|evidenced|verified",
+        "evidence": []
+      }
+    ],
+    "expression_observation": {
+      "summary": "",
+      "observed_strengths": [],
+      "observed_gaps": [],
+      "evidence": [],
+      "learning_plan_note": ""
+    },
+    "public_presence": {
+      "has_account": null,
+      "uses_alias": null,
+      "platforms": [],
+      "account_topics": [],
+      "content_formats": [],
+      "publishing_frequency": "",
+      "representative_work": [],
+      "privacy_or_confidentiality_constraints": [],
+      "preferred_primary_platform": "",
+      "preferred_backup_platform": "",
+      "published_items": [
+        {
+          "platform": "",
+          "url": "",
+          "published_at": "",
+          "format": "article|video|graphic|repository|demo|case-study|other",
+          "role_capability": "",
+          "feedback_summary": ""
+        }
+      ]
+    },
+    "education": "",
+    "experience_years": null,
+    "weekly_hours": null,
+    "months_can_commit": null,
+    "learning_self_rating": null,
+    "region": "中国大陆",
+    "language": ["中文"],
+    "target_salary": "",
+    "urgency": "",
+    "work_constraints": {
+      "accepts_coding": null,
+      "accepts_client_communication": null,
+      "accepts_travel": null,
+      "accepts_project_delivery": null
+    },
+    "required_field_status": {
+      "career_background": "unknown|vague|claimed|evidenced|verified",
+      "ai_practice": "unknown|vague|claimed|evidenced|verified",
+      "market_scope": "unknown|complete",
+      "salary": "unknown|complete",
+      "learning_commitment": "unknown|complete",
+      "public_presence": "unknown|complete",
+      "ready_for_direction_validation": false
+    },
+    "direction_hypotheses": [
+      {
+        "name": "",
+        "reason": "",
+        "status": "unverified|selected|discarded"
+      }
+    ],
+    "notes": ""
+  },
+  "candidate_roles": [
+    {
+      "id": "示例-删掉",
+      "name": "",
+      "ai_impact": "增强|新生|替代",
+      "salary_band": "<▯ 占位的 BOSS 量级 + 单位>",
+      "demand": "<同词岗位数量量级/趋势 + 来源年份>",
+      "jd_sample": {
+        "raw_count": 0,
+        "effective_count": 0,
+        "company_count": 0,
+        "city_count": 0,
+        "duplicate_rule": "同一公司最多保留2条明显不同的JD",
+        "sources": [],
+        "recent_posting_labels": [],
+        "priority_company_sources": [],
+        "collected_at": ""
+      },
+      "requirement_baseline": {
+        "core_tasks": [],
+        "high_confidence_common": [],
+        "needs_validation": [],
+        "company_specific": [],
+        "hard_gates": []
+      },
+      "gap": [],
+      "evidence_comparison": [],
+      "transition_verdict": "高匹配|可转型|高成本|当前不建议",
+      "honest_timeline": "",
+      "scam_verdict": "未验证|高危|存疑|可行",
+      "status": "candidate|verifying|chosen|learning|landed|dropped",
+      "found_at": "",
+      "found_at_full": ""
+    }
+  ],
+  "active": {
+    "chosen_id": null,
+    "started_at": null,
+    "learning_plan": null,
+    "progress": {
+      "current_week": 1,
+      "current_day": 1,
+      "current_phase": "",
+      "current_task": "",
+      "last_checkin_at": null,
+      "status": "not_started|in_progress|blocked|ahead|behind|paused",
+      "completed_tasks": [],
+      "blocked_on": [],
+      "next_action": "",
+      "user_notes": ""
+    },
+    "prediction": {
+      "expected_weekly_hours": null,
+      "expected_months_to_apply": null,
+      "expected_portfolio": [],
+      "stop_loss": "",
+      "recorded_at": null,
+      "recorded_at_full": null
+    }
+  },
+  "retro_log": []
+}

@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# 每个用户自己的运行状态（由 career-ai-transition-init 生成）——不要把你的个人数据提交上来
+.skill-state.json
+
+# 每天的工作产出（各人自己的；保留 workspace/README.md 和 portfolio/README.md）
+workspace/day-*/
+
+# 生成的报告（各人自己的）
+/reports/*
+!/reports/.gitkeep
+
+# Node
+node_modules/
